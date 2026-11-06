@@ -11,7 +11,7 @@ One file per note, grouped by topic. Notes are written in my own words, link the
 - AWS
 - CI/CD
 - Observability
-- [Networking](networking/): start with the [combined fundamentals summary](networking/networking-fundamentals-summary.md)
+- [Networking](networking/networking-concepts.md)
 - Azure
 
 ## Format
