@@ -11,6 +11,7 @@ One file per note, grouped by topic. Notes are written in my own words, link the
 - AWS
 - CI/CD
 - Observability
+- [Networking](networking/networking-concepts.md)
 - Azure
 
 ## Format
